@@ -1,9 +1,18 @@
-import React from 'react';
+/**
+ * Arquivo resposável pela carregamento dos arquivos da aplicação. 
+ *  
+*/
+
+import React from 'react'
+
+import './global.css'
+
+import Routes from './routes'
 
 function App() {
   return (
-    <h1>Hello world</h1>
-  );
+    <Routes />   
+  )
 }
 
-export default App;
+export default App
