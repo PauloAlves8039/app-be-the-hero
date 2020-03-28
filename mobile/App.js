@@ -1,10 +1,14 @@
+/**
+ * Arquivo responsável por importar as funcionalidades da aplicação.
+ * 
+*/
+
 import React from 'react';
-import { Text, View } from 'react-native';
+
+import Routes from './src/routes'
 
 export default function App() {
   return (
-    <View>
-      <Text>Hello Omnistack</Text>
-    </View>
-  );
+    <Routes />
+  )
 }
