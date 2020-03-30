@@ -46,7 +46,7 @@ export default function Incidents() {
             return
         }
 
-        if(total > 0 && incidents.length !== total){
+        if(total > 0 && incidents.length === total){
             return
         }
 
@@ -58,7 +58,7 @@ export default function Incidents() {
 
         setIncidents([...incidents, ...response.data])
         setTotal(response.headers['x-total-count'])
-        setPage(Page + 1)
+        setPage(page + 1)
         setLoading(false)   
     }
 
@@ -81,7 +81,7 @@ export default function Incidents() {
                 data={incidents}
                 style={styles.incidentList}
                 keyExtractor={incident => String(incident.id)}
-                // showsVerticalScrollIndicator={false}
+                showsVerticalScrollIndicator={false}
                 onEndReached={loadIncidents}
                 onEndReachedThreshold={0.2}
                 renderItem={({ item: incident }) => (
