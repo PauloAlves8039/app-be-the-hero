@@ -15,10 +15,4 @@ Projeto teve sua estrutura inicial desenvolvida durante a
 - SQlite
 
 # Screenshot
-<html lang="pt-br">
-<head>
-</head>
-<body>
-	<img src="https://github.com/PauloAlves8039/app-be-the-hero/blob/master/frontend/src/assets/screenshot.png">
-</body>
-</html>
+![Screenshot](https://github.com/PauloAlves8039/app-be-the-hero/blob/master/frontend/src/assets/screenshot.png)
