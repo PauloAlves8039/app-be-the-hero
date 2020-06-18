@@ -49,5 +49,8 @@ Baixar repositório ```git clone https://github.com/PauloAlves8039/app-be-the-he
 ## :camera: Screenshot
 ![Screenshot](https://github.com/PauloAlves8039/app-be-the-hero/blob/master/frontend/src/assets/screenshot.png)
 
+## :pencil: Licença
+Esse projeto está sob a licença [MIT](https://github.com/PauloAlves8039/Be-the-hero/blob/master/LICENSE.md)
+
 ## Author
 :computer: [Paulo Alves](https://github.com/PauloAlves8039)
