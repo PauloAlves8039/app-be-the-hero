@@ -8,7 +8,7 @@
 Repositório de uma aplicação web para auxiliar OGNs a encontrar Financiadores (Heróis) que possam ajudar pessoas em alguns problemas especificos. 
 
 Projeto teve sua estrutura inicial desenvolvida durante a
-[Semana OmniStack 11.0 (Rocketseat)](https://rocketseat.com.br/week/aulas/11.0) o mesmo poderá passar por alterações com o decorrer do tempo.
+[Semana OmniStack 11.0 (Rocketseat)](https://rocketseat.com.br/) o mesmo poderá passar por alterações com o decorrer do tempo.
 
 ## :wrench: Recursos Utilizados
 - NodeJS
@@ -53,4 +53,4 @@ Baixar repositório ```git clone https://github.com/PauloAlves8039/app-be-the-he
 Esse projeto está sob a licença [MIT](https://github.com/PauloAlves8039/Be-the-hero/blob/master/LICENSE.md)
 
 ## Author
-:computer: [Paulo Alves](https://github.com/PauloAlves8039)
+:boy: [Paulo Alves](https://github.com/PauloAlves8039)
